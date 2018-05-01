@@ -21,26 +21,6 @@ input[type=text]:focus {
 .dropdown {
   position: relative;
   display: inline-block;
-  float: right;
-  margin: 32px;
-}
-
-.toolbarHomeStyle {
-  background: white;
-}
-
-.aboutBtn {
-  padding: 20px;
-  float: right;
-}
-
-.serviceBtn {
-  padding: 20px;
-  float: left;
-}
-
-.bodyContent {
-  margin: 20px;
 }
 
 .dropdown-content {
@@ -55,32 +35,4 @@ input[type=text]:focus {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-body {
-  background: #ffffff url("../assets/company.jpg") no-repeat;
-  background-size: 100%;
-  color: #221e1f;
-}
-
-fullLogo {
-  margin-block-end: 466px;
-  margin-top: 312px;
-}
-
-div.logo {
-  position: 466px 312px;
-  background: #c52429;
-}
-
-.textColor {
-  color: #ffffff;
-  margin: 8px;
-}
-
-.white-block {
-  margin: 24px;
-  padding: 24px;
-  background-color: #ffffff;
-  color: #221e1f;
 }
